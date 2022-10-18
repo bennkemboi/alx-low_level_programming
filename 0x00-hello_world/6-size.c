@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry
- *
- * Return : always 0
+ * main - Enter sizes of data type
+ * code by benn
+ * Return:0 (success)
  */
 int main(void)
 {

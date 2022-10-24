@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * more_numbers -print more numbers
- * By Benson Keter
- * Return: 0
+ *more_numbers -print more numbers
+ *By Benson Keter
+ *Return: 0
  */
 
 void more_numbers(void);

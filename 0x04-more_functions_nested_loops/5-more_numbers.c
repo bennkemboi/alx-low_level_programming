@@ -4,8 +4,7 @@
  *By Benson Keter
  *Return: 0
  */
-
-void more_numbers(void);
+void more_numbers(void)
 {
 	int a, b;
 

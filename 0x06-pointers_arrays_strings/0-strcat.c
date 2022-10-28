@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * _strcat - concatenate strings
- * using at most n bytes from src
  * @dest: char
  * @src: char
  * Return:void

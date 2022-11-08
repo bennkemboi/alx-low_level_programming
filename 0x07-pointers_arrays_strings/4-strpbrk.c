@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strbrk - will search a string for any of
+ * _strpbrk - will search a string for any of
  *           a set of bytes
  *@s: string to be searched
  *@accept : the set of bytes to be searched
@@ -8,7 +8,7 @@
  *        NULL if set not matched
  */
 
-char *_strbrk(char *s, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int index;
 

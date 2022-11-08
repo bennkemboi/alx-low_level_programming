@@ -6,7 +6,7 @@
  *Return: the number of bytes that consist only of bytes
  *from accept
  */
-unsigned int _strspn(cha *s, char *accept)
+unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int bytes = 0;
 	int index;

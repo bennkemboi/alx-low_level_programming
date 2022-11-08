@@ -3,7 +3,7 @@
  * print_chessboard - prints a chessboard
  * @a: the chessboard
  */
-void print_chessboard(char (*a)[0])
+void print_chessboard(char (*a)[8])
 {
 	int indx1, indx2;
 

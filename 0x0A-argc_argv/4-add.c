@@ -2,7 +2,6 @@
 #include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
-#include "main.h"
 /**
  * check_num - string there are digit
  * @str: array str
@@ -42,7 +41,7 @@ int main(int argc, char *argv[])
 	{
 		if (check_num(argv[count]))
 		{
-			str_to_int = atoi(argv[count]) /*ATOI- convert string to int*/
+			str_to_int = atoi(argv[count]); /*ATOI- convert string to int*/
 				sum += str_to_int;
 		}
 		/*if one of the number contains symbols that are not digits*/
